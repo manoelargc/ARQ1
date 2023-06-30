@@ -129,7 +129,7 @@ end TCL_Generic;
       <a name="contents" val=""/>
     </tool>
   </lib>
-  <main name="DataPath2"/>
+  <main name="CircuitoMIPS"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
     <a name="simlimit" val="1000"/>
@@ -161,8 +161,8 @@ end TCL_Generic;
     <tool lib="1" name="AND Gate"/>
     <tool lib="1" name="OR Gate"/>
   </toolbar>
-  <circuit name="DataPath2">
-    <a name="circuit" val="DataPath2"/>
+  <circuit name="CircuitoMIPS">
+    <a name="circuit" val="CircuitoMIPS"/>
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif bold 16"/>
